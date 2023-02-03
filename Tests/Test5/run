@@ -1,0 +1,1 @@
+./analog -g analog.dot test.log
